@@ -5,6 +5,7 @@ public class Tester
     {
         thing = 6.5;
         var df = 5;
+        var b = true;
     }
 
 }
